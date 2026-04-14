@@ -16,3 +16,53 @@ Repositório criado para atividade da disciplina.
 
 Aluno: Rita de Cássia
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objetivo
+
+Praticar uso do Git e GitHub
+
